@@ -24,19 +24,20 @@ font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 26px;
-color: #484747;
+color: #0b0a0a;
 text-align: right;
 }
 .btn-banner{
     font-family: 'Work Sans';
     font-style: normal;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 23px;
-    text-align: right;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
     border-radius: 5px;
     color: #f0e9e5;
     background-color: #ea6105;
+    border: none;
 }
 /* style for main */
 .main-img{
@@ -73,24 +74,19 @@ font-size: 16px;
 line-height: 26px;
 color: #3c3838;
 }
-.li{
-position: absolute;
-width: 349px;
-height: 162px;
-left: 862px;
-top: 1412px;
-}
-ul{
-
-width: 206px;
-height: 26px;
-left: 896px;
-top: 1446px;
-
+.maintext3{
+   
+    width: 311px;
+    height: 26px;
+    left: 896px;
+    top: 1446px;
+list-style-type: disc;
 font-family: 'Work Sans';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 26px;
-color: #444343;
+color: #474343;
+
+
 }
