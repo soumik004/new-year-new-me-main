@@ -1,0 +1,38 @@
+.banner{
+  width: 1600px;
+  height: 808px;
+  left: 1600px;
+  top: 808px;
+
+     }
+.bannertext{
+     position: absolute;
+     font-family: 'Work Sans';
+     width: 525px;
+     height: 228px;
+     left: 845px;
+     top: 216px;
+     text-align: right;
+
+    }
+.bannertext2{
+
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #484747;
+text-align: right;
+}
+.btn-banner{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: right;
+    border-radius: 5px;
+    color: #f0e9e5;
+    background-color: #ea6105;
+}
