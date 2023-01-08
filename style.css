@@ -90,3 +90,57 @@ color: #474343;
 
 
 }
+/* style for foot */
+.foot-titel{
+    position: absolute;
+    width: 1080px;
+    height: 299.96px;
+    left: 699px;
+    top: 1742.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+
+
+#web{
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 330px;
+    top: 1901px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+}
+#ecom{
+position: absolute;
+width: 92.96px;
+height: 92.96px;
+left: 631px;
+top: 1895px;
+}
+#smoke{
+    position: absolute;
+    width: 93px;
+    height: 93px;
+    left: 916px;
+    top: 1889.3px;
+
+}
+#js{
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 1218px;
+    top: 1889.3px;
+}
